@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.7.0",
-    "parallax": "oneezy/parallax#^3.0.1"
+    "parallax-js": "oneezy/parallax-js#^1.0.1"
   },
   "devDependencies": {
     "web-component-tester": "*",
