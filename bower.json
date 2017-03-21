@@ -1,0 +1,39 @@
+{
+  "name": "parallax-js-import",
+  "author": "Justin O'Neill",
+  "version": "1.0.0",
+  "description": "Importing the parallax.js library.",
+  "private": true,
+  "license": "https://github.com/oneezy/parallax-js-import/LICENSE",
+  "homepage": "https://github.com/oneezy/parallax-js-import",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oneezy/parallax-js-import.git"
+  },
+  "keywords": [
+    "polymer",
+    "web-components",
+    "web-component"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "demo",
+    "implementation",
+    ".travis.yml",
+    ".github",
+    "wtc.conf.json",
+    "gulpfile.js"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.7.0",
+    "parallax": "oneezy/parallax#^3.0.1"
+  },
+  "devDependencies": {
+    "web-component-tester": "*",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.1.7",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.2.5"
+  }
+}
